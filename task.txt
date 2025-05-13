@@ -1,0 +1,38 @@
+var myPin = 6354
+func check(){
+	var avlabl = 35000;
+	return avlabl
+}
+fun depo(){
+	enter amoutn :10000 
+	
+}
+fun witdrw()
+{	
+	chekbal()
+	enter amount:
+		(avlbal < amount)
+		{
+			insuu fi bal
+		}
+		{
+			now your avlbal 
+		}
+}
+
+Are you enter in atm?
+{
+	Enter your acc
+	Enter your pin
+		{
+			1. deposi
+			2. withdrwa
+			3. checkbal
+		}
+		{
+			Incorect pin 
+		}
+}
+{
+	thanyou for visiting bob atm.
+}
