@@ -71,3 +71,4 @@ var users = ["rajvi","ram","seeta","geeta","bhuwan","hanuman"];
 // console.log(users);
 
 
+// var str "aashiqsingh"
