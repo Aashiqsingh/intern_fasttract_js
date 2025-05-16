@@ -118,10 +118,22 @@ var company = [
 
 
 
-  let x = company.map((comp)=>{
-    return comp.companyname
-  })
-  console.log(x);
+//   let x = company.map((comp)=>{
+//     return comp.companyname
+//   })
+//   console.log(x);
+
+
+// let x = company.reduce((sum,comp)=>{
+//     return sum + comp.employees.length
+// },0)
+// console.log(x);
+
+// let x = company.reduce((sum,comp)=> sum + comp.employees.length,0)
+// console.log(x);
+
+
+
   
 
 
