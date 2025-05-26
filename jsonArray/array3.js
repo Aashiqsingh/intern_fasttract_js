@@ -118,19 +118,6 @@ var company = [
 
 
 
-//   let x = company.map((comp)=>{
-//     return comp.companyname
-//   })
-//   console.log(x);
-
-
-// let x = company.reduce((sum,comp)=>{
-//     return sum + comp.employees.length
-// },0)
-// console.log(x);
-
-// let x = company.reduce((sum,comp)=> sum + comp.employees.length,0)
-// console.log(x);
 
 
 
@@ -163,3 +150,18 @@ var company = [
 
 // Count how many employees have an email domain of "datadynamics.com".
 // Check the email field of all employees and count how many contain "datadynamics.com" as the domain.
+
+
+//   let x = company.map((comp)=>{
+//     return comp.companyname
+//   })
+//   console.log(x);
+
+
+// let x = company.reduce((sum,comp)=>{
+//     return sum + comp.employees.length
+// },0)
+// console.log(x);
+
+// let x = company.reduce((sum,comp)=> sum + comp.employees.length,0)
+// console.log(x);
