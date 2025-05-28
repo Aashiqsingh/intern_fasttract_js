@@ -1,0 +1,21 @@
+Promise --> pending -- (fullfilled / reject )
+
+
+Promise -- class -- object
+
+Sync :
+1. block sync 
+    - then catch
+2. function sync
+    - async await 
+
+
+
+NON - sync :
+
+
+starting..... 
+
+This is the code  - 1min
+
+endingg....
