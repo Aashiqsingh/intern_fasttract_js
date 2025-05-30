@@ -11,6 +11,10 @@ function getData(){
 const result = async()=>{
     let x = await getData()
     console.log(x);
+
+
+    console.log("Ending....");
+    
 }
 
 
